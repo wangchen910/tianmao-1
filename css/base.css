@@ -1,0 +1,22 @@
+/*
+* @Author: l
+* @Date:   2017-08-29 18:01:05
+* @Last Modified by:   王晨
+* @Last Modified time: 2017-09-06 14:44:28
+*/
+*{
+	margin: 0;   /* 清除body身上的，8px */
+	text-decoration: none;   /*  清除a标签的下划线
+ */
+	/* padding: 0; *//*   input */
+	/* box-sizing: content-box; 默认值 */
+	/* box-sizing: border-box; */
+	list-style: none;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+input{
+	outline:none;
+}
